@@ -1,5 +1,7 @@
 <img align="right" src="https://github.com/Tecnologirl/Tecnologirl/blob/master/Alondra-Github.png" alt="happy photo of me (Alondra)" width=350px height=350px/>
+
 ### Hola! 😊
+
 I'm studying Systems Engineering 👩‍💻 and coorganizer of GDG IPN
 
 - 🌱 I’m currently learning Python
