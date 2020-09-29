@@ -1,17 +1,12 @@
-### Hi there 👋
+### Hola! 😊
+I'm studying Systems Engineering 👩‍💻 and coorganizer of GDG IPN
+
 - 🌱 I’m currently learning Python
-- 📫 How to reach me: @Tecnologirl
-<!--
-**Tecnologirl/Tecnologirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently taking the Facebook SWE Technical Mentorship Programme
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: 🐧
 
-Here are some ideas to get you started:
+You can find me everywhere as technologirl or @tecnologirl on Twitter
 
-- 🔭 I’m currently working on Deloitte Cloud Bootcamp
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ If at first u don't succeed call it version 1.0
+ 
