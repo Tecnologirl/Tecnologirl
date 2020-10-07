@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Tecnologirl/Tecnologirl/blob/master/github_Tecnologirl.png" alt="happy photo of me (Alondra)" width=250px height=500px/>
+<img align="right" src="https://github.com/Tecnologirl/Tecnologirl/blob/master/github_Tecnologirl.png" alt="happy photo of me (Alondra)" width=30% height=30%/>
 
 ### Hola! 😊
 
