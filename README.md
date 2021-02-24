@@ -12,4 +12,5 @@ I'm studying Systems Engineering 👩‍💻 and coorganizer of GDG IPN
 You can find me everywhere as [technologirl](https://linktr.ee/Technologirl) or [@tecnologirl](twitter.com/tecnologirl) on Twitter
 
  If at first u don't succeed call it version 1.0
- 
+
+Saludos Epic Queen!
